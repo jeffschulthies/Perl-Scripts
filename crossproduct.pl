@@ -1,4 +1,5 @@
 #!usr/bin/perl
+#crossproduct.pl (a,b,c) (x,y,z)
 use strict;
 use warnings;
 
