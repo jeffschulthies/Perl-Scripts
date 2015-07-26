@@ -16,7 +16,7 @@ sub crossproduct() {
   $product[2] = $tupleOne[0] * $tupleTwo[1] - $tupleOne[1] * $tupleTwo[0];
 
   foreach(@product) {
-    print "[$_]\n";
+    print "[$_], ";
   }
 
 }
